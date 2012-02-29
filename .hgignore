@@ -1,0 +1,15 @@
+syntax: glob
+
+#temp files
+*.swp
+*.pyc
+*.pyo
+*.orig
+*.egg-info
+*~
+
+#setup files
+build/
+dist/
+.build/
+MANIFEST
