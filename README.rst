@@ -16,7 +16,7 @@ Installation
 
 ::
 
-    $ pip install django-eml-backend
+    $ pip install django-eml-email-backend
 
 Usage
 =====
